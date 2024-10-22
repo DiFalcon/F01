@@ -2,7 +2,8 @@ body {
     background-color: aqua; 
     color: rgba(43, 61, 226, 0.925);
 }
-section { background-color: aqua;R
+section { 
+    background-color: aqua;
         padding-top: 80px;
         padding-bottom: 80px;
         display: flex;
@@ -11,5 +12,5 @@ section { background-color: aqua;R
 }
 
 .chamada-texto {
-    margin-right: 40%;
+    margin-right: 10%;
 }

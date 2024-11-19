@@ -44,7 +44,7 @@ img {
 .categoria-videos {
     overflow-x: auto;
     gap: 10px;
-    display: flexbox;
+    display: flow-root;
 }
 
 .categoria {
